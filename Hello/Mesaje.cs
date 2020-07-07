@@ -16,6 +16,8 @@ namespace Hello
                 case "EN": Console.WriteLine("Hello world!"); break;
                 case "RO": Console.WriteLine("Salut lume!"); break;
                 case "HU": Console.WriteLine("Helló Világ"); break;
+                case "SU": Console.WriteLine("Blah bleh"); break;
+
                 default:
                     Console.WriteLine("Salut default!");
                     break;
