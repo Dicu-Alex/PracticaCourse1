@@ -12,8 +12,9 @@ namespace Hello
         {
             Mesaje.Afiseaza("Salut lume!", "EN");
             Mesaje.Afiseaza("Salut lume!", "RO");
-            Mesaje.Afiseaza("Salut lume!", "HU");
             Mesaje.Afiseaza("Sanatate!");
+            Mesaje.Afiseaza("Sanatate!");
+
         }
     }
 }
