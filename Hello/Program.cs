@@ -10,7 +10,7 @@ namespace Hello
     {
         static void Main(string[] args)
         {
-            Mesaje.Afiseaza("Salut lume!", "EN");
+            Mesaje.Afiseaza("Salut lume!", "English");
             Mesaje.Afiseaza("Salut lume!", "RO");
             Mesaje.Afiseaza("Sanatate!");
             Mesaje.Afiseaza("Sanatate!");
