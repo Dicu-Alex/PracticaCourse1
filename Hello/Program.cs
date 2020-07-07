@@ -12,7 +12,7 @@ namespace Hello
         {
             Mesaje.Afiseaza("Salut lume!", "EN");
             Mesaje.Afiseaza("Salut lume!", "RO");
-
+            Mesaje.Afiseaza("Sanatate!");
         }
     }
 }
